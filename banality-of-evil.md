@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 阿道夫·艾希曼是纳粹SS（党卫军）的高级将领，曾负责犹太人“终决方案”的策划与执行。战后被联军判为一级战犯，但逃脱联军的抓捕，潜逃到阿根廷，后被以色列特工绑架，于1961年4月11日被引渡到以色列并公开审判。这一年《纽约客》杂志社指派汉娜·阿伦特去报道此事。阿伦特将此次审判纪实成书为《艾希曼在耶路撒冷：一份关于平庸之恶的报告》。
-[Link]([https://www.timednews.com/article/2021/04/08/3676.html](https://www.timednews.com/article/2021/04/08/3676.html)
+
+[https://www.timednews.com/article/2021/04/08/3676.html](https://www.timednews.com/article/2021/04/08/3676.html)
 
 You can use the [editor on GitHub](https://github.com/xin202206/xin202206.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
