@@ -3,7 +3,9 @@
 利用GitHub写博客的几种方式
 [https://github.com/rainzhaojy/blogs/issues/1](https://github.com/rainzhaojy/blogs/issues/1)
 
-[https://new.qq.com/omn/20220529/20220529A086KM00.html](https://new.qq.com/omn/20220529/20220529A086KM00.html)
+奉命行事：[https://new.qq.com/omn/20220529/20220529A086KM00.html](https://new.qq.com/omn/20220529/20220529A086KM00.html)
+
+【卢溪的书架】第十六本[https://zhuanlan.zhihu.com/p/485062200](https://zhuanlan.zhihu.com/p/485062200)
 
 You can use the [editor on GitHub](https://github.com/xin202206/xin202206.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
