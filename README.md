@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+利用GitHub写博客的几种方式
+[https://github.com/rainzhaojy/blogs/issues/1]（https://github.com/rainzhaojy/blogs/issues/1）
+
 You can use the [editor on GitHub](https://github.com/xin202206/xin202206.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
