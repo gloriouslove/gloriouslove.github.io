@@ -1,6 +1,8 @@
-华夏恶魔：中共的本质与执政特色[Link](https://xin202206.github.io/monster.html) 
+### 目录
+[华夏恶魔：中共的本质与执政特色](https://xin202206.github.io/monster.html) 
 
-## Welcome to GitHub Pages
+
+## 参考
 
 利用GitHub写博客的几种方式
 [https://github.com/rainzhaojy/blogs/issues/1](https://github.com/rainzhaojy/blogs/issues/1)
