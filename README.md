@@ -1,3 +1,5 @@
+华夏恶魔：中共的本质与执政特色[Link](https://xin202206.github.io/monster.html) 
+
 ## Welcome to GitHub Pages
 
 利用GitHub写博客的几种方式
